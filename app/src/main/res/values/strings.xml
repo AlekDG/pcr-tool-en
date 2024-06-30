@@ -166,58 +166,58 @@
     <string name="tip_equip_search">No Equipment Selected</string>
     <string name="picked_equip">Selected</string>
 
-    <!--其它工具-->
-    <string name="tool_leader">角色排行</string>
-    <string name="tool_calendar_inprogress">进行中活动</string>
-    <string name="tool_calendar_coming">活动预告</string>
-    <string name="tool_calendar_event">活动记录</string>
-    <string name="tool_website">收藏夹</string>
-    <string name="tool_clan">公会战</string>
-    <string name="tool_clan_no_boss">BOSS 信息暂未实装</string>
-    <string name="tool_guild">角色公会</string>
-    <string name="character">角色</string>
-    <string name="tool_gacha">卡池</string>
-    <string name="tool_free_gacha">免费十连</string>
-    <string name="tool_birthday">生日</string>
-    <string name="tool_event">剧情活动</string>
-    <string name="tool_news">公告</string>
-    <string name="news_title">公告标题</string>
-    <string name="quest">主线</string>
-    <string name="jjc">竞技场</string>
-    <string name="clan">公会战</string>
-    <string name="tower">露娜塔</string>
-    <string name="sp_dungeon">特殊地下城</string>
-    <string name="fault">次元断层</string>
-    <string name="colosseum">斗技场</string>
-    <string name="result">数值变化</string>
-    <string name="character_name">角色名</string>
-    <string name="tweet">日服情报</string>
-    <string name="comic">漫画</string>
-    <string name="comic_4">4格漫画</string>
-    <string name="comic_toc">目录</string>
-    <string name="comic_toc_index">第%d话</string>
-    <string name="comic_input_hint">输入跳转，如：382</string>
-    <string name="other">其他</string>
-    <string name="activity_info">活动日程</string>
-    <string name="no_limit">无限制</string>
-    <string name="tip_no_equip_get_area">暂无掉落区域</string>
-    <string name="title_recently_used">常用</string>
-    <string name="phase">%s阶段</string>
-    <string name="last_update">最近评分调整</string>
-    <string name="random_area">额外掉落</string>
-    <string name="random_drop_area_title">区域 %d</string>
-    <string name="random_drop_area_1">（前半）</string>
-    <string name="random_drop_area_2">（后半）</string>
-    <string name="qq_group">反馈交流群</string>
-    <string name="to_feedback">反馈</string>
-    <string name="qq_group_summary">有任何问题或建议，可在群内反馈</string>
-    <string name="to_join_qq_group">加入QQ群</string>
-    <string name="clean_image_cache">清除缓存</string>
-    <string name="tip_clean_cache">加载缓存，可减少网络数据使用。正常使用中请勿清除</string>
-    <string name="cache_size">占用：%s\n数量：%d</string>
-    <string name="confirm_clean_cache">清除缓存后，下次打开应用将通过网络重新加载图片</string>
+    <!--News Menu-->
+    <string name="tool_leader">Char Ranking</string>
+    <string name="tool_calendar_inprogress">Underway</string>
+    <string name="tool_calendar_coming">Upcoming</string>
+    <string name="tool_calendar_event">Event</string>
+    <string name="tool_website">Website</string>
+    <string name="tool_clan">Clan Battle</string>
+    <string name="tool_clan_no_boss">BOSS Unknown</string>
+    <string name="tool_guild">Guild</string>
+    <string name="character">Character</string>
+    <string name="tool_gacha">Gacha</string>
+    <string name="tool_free_gacha">Free 10 Pull</string>
+    <string name="tool_birthday">Birthdays</string>
+    <string name="tool_event">Event</string>
+    <string name="tool_news">News</string>
+    <string name="news_title">Title</string>
+    <string name="quest">Main Quest</string>
+    <string name="jjc">Arena</string>
+    <string name="clan">CB</string>
+    <string name="tower">Luna</string>
+    <string name="sp_dungeon">SP Dunj</string>
+    <string name="fault">Rift</string>
+    <string name="colosseum">Stadium</string>
+    <string name="result">Results</string>
+    <string name="character_name">Name</string>
+    <string name="tweet">Tweet</string>
+    <string name="comic">Manga</string>
+    <string name="comic_4">4koma</string>
+    <string name="comic_toc">Contents</string>
+    <string name="comic_toc_index">Chapter %d</string>
+    <string name="comic_input_hint">Enter number</string>
+    <string name="other">Other</string>
+    <string name="activity_info">Schedule</string>
+    <string name="no_limit">No limit</string>
+    <string name="tip_no_equip_get_area">No area found for this equip</string>
+    <string name="title_recently_used">Recently used</string>
+    <string name="phase">Tier %s</string>
+    <string name="last_update">Last Update</string>
+    <string name="random_area">Other drops</string>
+    <string name="random_drop_area_title">Area %d</string>
+    <string name="random_drop_area_1">1st half</string>
+    <string name="random_drop_area_2">2nd half</string>
+    <string name="qq_group">QQ Group</string>
+    <string name="to_feedback">Feedback</string>
+    <string name="qq_group_summary">lmao</string>
+    <string name="to_join_qq_group">Join QQ group</string>
+    <string name="clean_image_cache">Clear Cache</string>
+    <string name="tip_clean_cache">May increase network usage</string>
+    <string name="cache_size">Used：%s\nAmount：%d</string>
+    <string name="confirm_clean_cache">After cleaning, images will be loaded from network</string>
     <string name="github">GitHub</string>
-    <string name="afd">爱发电</string>
+    <string name="afd">afdian</string>
     <string name="sponsor">支持</string>
     <string name="afd_url">https://afdian.net/a/wthee</string>
     <string name="tip_afd">期待你的关注与支持</string>
@@ -225,21 +225,21 @@
     <string name="github_project_url">https://github.com/wthee/pcr-tool</string>
     <string name="tip_github">项目开源代码</string>
     <string name="mode">MODE%d</string>
-    <string name="clan_battle_y_m">%s 年 %s 月</string>
-    <string name="update">更新</string>
-    <string name="system">系统</string>
-    <string name="event">活动</string>
-    <string name="shop">周边</string>
-    <string name="local_note">本地化笔记</string>
-    <string name="search_suggestion">快捷输入</string>
-    <string name="search_api">查询</string>
-    <string name="search_api_desc">需要网络</string>
-    <string name="tool_all_quest">主线地图</string>
-    <string name="pick_date">选择日期</string>
-    <string name="picked_date">已选择</string>
-    <string name="beta_tool_group">测试</string>
+    <string name="clan_battle_y_m">Year: %s Month: %s</string>
+    <string name="update">Update</string>
+    <string name="system">System</string>
+    <string name="event">Event</string>
+    <string name="shop">Shop</string>
+    <string name="local_note">Localization</string>
+    <string name="search_suggestion">Quick Search</string>
+    <string name="search_api">Search</string>
+    <string name="search_api_desc">Network Required</string>
+    <string name="tool_all_quest">Main Quests</string>
+    <string name="pick_date">Select Date</string>
+    <string name="picked_date">Selected Date</string>
+    <string name="beta_tool_group">Beta Test</string>
     <string name="beta_tool_group_title">后续将调整至其他分组或移除</string>
-    <string name="all_unit_calc_equip">全角色装备统计</string>
+    <string name="all_unit_calc_equip">All Equipment Stats</string>
     <string name="to"> ~ </string>
     <string name="title_comic_zh">优妮hnn汉化组</string>
     <string name="tip_comic_zh">漫画汉化</string>
@@ -247,149 +247,149 @@
     <string name="title_jp_info">PCR公主连结日服情报站</string>
     <string name="tip_jp_info">日服最新情报</string>
     <string name="jp_info_url">https://space.bilibili.com/1731293061</string>
-    <string name="tool_unique_equip">专用装备</string>
-    <string name="search_unique_equip">装备名/角色名</string>
-    <string name="character_detail">角色详情</string>
-    <string name="tool_load_comic">过场漫画</string>
-    <string name="description">描述</string>
+    <string name="tool_unique_equip">Unique Equipment</string>
+    <string name="search_unique_equip">Search by Chara</string>
+    <string name="character_detail">Character Info</string>
+    <string name="tool_load_comic">Manga</string>
+    <string name="description">Desc.</string>
 
-    <!--竞技场查询-->
-    <string name="pvp_search">查询</string>
-    <string name="pvp_upload">上传记录</string>
-    <string name="pvp_no_data">未查询到进攻队伍信息</string>
-    <string name="pvp_research">重新查询</string>
-    <string name="pvp_search_on_web">去网站查询</string>
-    <string name="team_no">进攻队伍 %s</string>
-    <string name="team_win">进攻</string>
-    <string name="team_lose">防守</string>
-    <string name="tip_select_5">请选择 5 名角色~</string>
-    <string name="tip_selected_5">已选择 5 名角色~</string>
-    <string name="tool_pvp">竞技场</string>
-    <string name="pvp_no_favorites">暂无收藏</string>
-    <string name="pvp_no_history">暂无查询历史</string>
-    <string name="pvp_service">竞技场查询服务</string>
-    <string name="pvp_service_running">竞技场查询服务正在运行</string>
-    <string name="close_app">关闭应用</string>
+    <!--PVP-->
+    <string name="pvp_search">Search</string>
+    <string name="pvp_upload">Upload</string>
+    <string name="pvp_no_data">Atk team not found</string>
+    <string name="pvp_research">Search Again</string>
+    <string name="pvp_search_on_web">Website Search</string>
+    <string name="team_no">Offense %s</string>
+    <string name="team_win">Wins</string>
+    <string name="team_lose">Loses</string>
+    <string name="tip_select_5">Select 5 chars~</string>
+    <string name="tip_selected_5">Selected 5 chars~</string>
+    <string name="tool_pvp">Arena</string>
+    <string name="pvp_no_favorites">Empty</string>
+    <string name="pvp_no_history">Empty</string>
+    <string name="pvp_service">Search</string>
+    <string name="pvp_service_running">Search in Progress</string>
+    <string name="close_app">Close</string>
 
-    <!--操作-->
-    <string name="cancel">取消</string>
-    <string name="confirm">确认</string>
-    <string name="to_add_tool">添加功能</string>
-    <string name="edit">管理功能</string>
-    <string name="done">完成</string>
-    <string name="copy_all">全部复制</string>
-    <string name="open_browser">在浏览器中打开</string>
-    <string name="copy_qq_group">已复制QQ群号：%s</string>
-    <string name="share_to">分享到：</string>
-    <string name="release">%s 发布</string>
-    <!--活动相关-->
+    <!--General Menu Buttons-->
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="to_add_tool">Add</string>
+    <string name="edit">Edit</string>
+    <string name="done">Finish</string>
+    <string name="copy_all">Copy All</string>
+    <string name="open_browser">Open in Browser</string>
+    <string name="copy_qq_group">Copy QQ：%s</string>
+    <string name="share_to">Share：</string>
+    <string name="release">Release %s</string>
+    <!--Quest Types-->
     <string name="daily_mission">每日任务体力</string>
     <string name="daily_login">每日登录宝石奖励，共计</string>
     <string name="fortune_event">兰德索尔杯</string>
-    <string name="normal">普通关卡</string>
-    <string name="hard">困难关卡</string>
-    <string name="very_hard">高难关卡</string>
-    <string name="explore">探索</string>
-    <string name="shrine">圣迹调查</string>
-    <string name="temple">神殿调查</string>
-    <string name="dungeon">地下城</string>
-    <string name="drop">掉落量</string>
-    <string name="mana">玛那掉落量</string>
-    <string name="multiple">%s倍</string>
-    <string name="free_gacha_content">「免费十连」%d 次</string>
-    <string name="story_event_sub">支线</string>
-    <string name="story_event_re">复刻</string>
-    <string name="story_event_preview">预告</string>
-    <string name="story_event_new">活动</string>
-    <string name="clan_battle_month">%d月公会战</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="very_hard">Very Hard</string>
+    <string name="explore">Grotto</string>
+    <string name="shrine">Sanctum</string>
+    <string name="temple">Temple</string>
+    <string name="dungeon">Dungeon</string>
+    <string name="drop">Drops</string>
+    <string name="mana">Mana</string>
+    <string name="multiple">x%s</string>
+    <string name="free_gacha_content">"Free 10 pulls" x%d</string>
+    <string name="story_event_sub">Substory</string>
+    <string name="story_event_re">Rerun</string>
+    <string name="story_event_preview">Event Prev</string>
+    <string name="story_event_new">Event</string>
+    <string name="clan_battle_month">CB %dM</string>
 
-    <!--战力系数-->
-    <string name="title_ex_skill_add">EX+ 额外数值</string>
-    <string name="title_skill_1_add">技能+ 额外数值</string>
-    <string name="title_skill_1_coe">技能+ 系数</string>
-    <string name="title_ub_add">连结爆发+ 额外数值</string>
-    <string name="title_ub_coe">连结爆发+ 系数</string>
-    <string name="attr_all_value">战力：%s</string>
-    <string name="title_attr_tip">属性数值说明</string>
-    <string name="attr_calc">角色属性数值 = 基本属性 + 剧情属性 + 被动技能（不计算到战力） + RANK 奖励属性</string>
-    <string name="tip_status_coe">※ 数值与游戏数值可能存在一定误差，请以游戏内为准</string>
+    <!--Stats-->
+    <string name="title_ex_skill_add">EX+ Additive</string>
+    <string name="title_skill_1_add">Skill+ Additive</string>
+    <string name="title_skill_1_coe">Skill+ Multiplier</string>
+    <string name="title_ub_add">UB+ Additive</string>
+    <string name="title_ub_coe">UB+ Multiplier</string>
+    <string name="attr_all_value">Power：%s</string>
+    <string name="title_attr_tip">Stat Explanation</string>
+    <string name="attr_calc">Stat = Base Stat + Bond + Passive + Rank Bonus</string>
+    <string name="tip_status_coe">※ Actual in-game stats may vary</string>
 
-    <!--提示相关-->
-    <string name="no_more">暂无更多</string>
-    <string name="no_data">暂无数据</string>
-    <string name="not_installed">暂未实装</string>
-    <string name="tip_click_to_add">点击下列功能，添加至首页</string>
-    <string name="check_db_error">数据版本校验失败~</string>
-    <string name="data_get_error">数据获取失败</string>
-    <string name="data_file_error">文件已损坏\n点击重新下载</string>
-    <string name="remote_data_file_error">文件下载异常\n请加群反馈</string>
-    <string name="data_file_error_desc">重新下载数据</string>
-    <string name="database_remote_backup">已启用远程备用数据~</string>
-    <string name="tip_save_to_gallery">保存至系统相册</string>
-    <string name="wait_pic_load">请等待图片加载完成</string>
-    <string name="wait_video_load">请等待视频加载完成</string>
-    <string name="change_failed">切换失败</string>
-    <string name="title_download_database">正在下载数据</string>
-    <string name="update_database">数据更新</string>
-    <string name="pic_exist">图片已存在\n%s</string>
-    <string name="video_exist">视频已存在\n%s</string>
-    <string name="save_success">已成功保存至系统相册\n%s</string>
-    <string name="save_failure">保存失败</string>
-    <string name="save_error">保存异常</string>
-    <string name="download_failure">下载失败</string>
-    <string name="copy_success">文本已复制~</string>
-    <string name="db_diff_version">版本</string>
-    <string name="db_diff_content">更新内容</string>
-    <string name="db_diff_time">日期</string>
-    <string name="db_diff_content_none">其他</string>
-    <string name="title_api_request_error">网络请求异常</string>
-    <string name="title_dialog_delete">删除</string>
-    <string name="title_dialog_save_img">保存图片</string>
-    <string name="title_dialog_clean_cache">清除缓存</string>
-    <string name="find_new_release">v%s 已发布</string>
+    <!--Related to Tipes-->
+    <string name="no_more">No More</string>
+    <string name="no_data">No Data</string>
+    <string name="not_installed">Not Installed</string>
+    <string name="tip_click_to_add">Click to Add</string>
+    <string name="check_db_error">Database Error~</string>
+    <string name="data_get_error">Get Error</string>
+    <string name="data_file_error">File Error</string>
+    <string name="remote_data_file_error">Remote Datafile Error</string>
+    <string name="data_file_error_desc">?????</string>
+    <string name="database_remote_backup">Remote DB Backup~</string>
+    <string name="tip_save_to_gallery">Save to Gallery</string>
+    <string name="wait_pic_load">Image Loading</string>
+    <string name="wait_video_load">Video Loading</string>
+    <string name="change_failed">Change Failes</string>
+    <string name="title_download_database">Download DB</string>
+    <string name="update_database">Update DB</string>
+    <string name="pic_exist">%s\nAlready exists</string>
+    <string name="video_exist">%s\nAlready exists</string>
+    <string name="save_success">%s\nSaved</string>
+    <string name="save_failure">Failed to Save</string>
+    <string name="save_error">Error</string>
+    <string name="download_failure">Download Failed</string>
+    <string name="copy_success">Copied~</string>
+    <string name="db_diff_version">DB different version</string>
+    <string name="db_diff_content">DB Different content</string>
+    <string name="db_diff_time">DB Different time</string>
+    <string name="db_diff_content_none">DB same content</string>
+    <string name="title_api_request_error">API req error</string>
+    <string name="title_dialog_delete">Delete</string>
+    <string name="title_dialog_save_img">Sve Image</string>
+    <string name="title_dialog_clean_cache">Clear Cache</string>
+    <string name="find_new_release">v%s Find new version</string>
 
-    <!--模拟抽卡-->
-    <string name="limit_re">复刻限定</string>
-    <string name="limit_re_pick">复刻自选</string>
-    <string name="normal_re">复刻常驻</string>
-    <string name="fes">公主庆典</string>
-    <string name="anv">周年</string>
-    <string name="gacha_fes">Fes限定★3</string>
-    <string name="gacha_limit">限定★3</string>
-    <string name="gacha_normal">常驻★3</string>
-    <string name="tool_mock_gacha">抽卡模拟</string>
-    <string name="gacha_pick_up_normal">全角色 UP</string>
-    <string name="gacha_pick_up_fes">Fes UP</string>
-    <string name="gacha_pick_up_single">单角色 UP</string>
-    <string name="tip_to_pick_up">请选择角色</string>
-    <string name="tip_to_pick_up_normal">所选角色概率相同</string>
-    <string name="tip_to_pick_up_single">仅最后选择的角色概率提升</string>
-    <string name="tip_to_mock_single">单角色 UP：至少选择2名角色</string>
-    <string name="tip_no_gacha_record">暂无抽卡记录</string>
-    <string name="reset_record">重置卡池</string>
-    <string name="delete_gacha">删除卡池</string>
-    <string name="tip_delete_gacha">删除卡池记录和模拟抽卡记录</string>
-    <string name="go_to_mock">去抽卡</string>
-    <string name="gacha_max_select_count">最多可选 %d 名角色</string>
-    <string name="last_gacha_date">已抽%d次，%s</string>
-    <string name="gacha_used_gem">宝石 %d</string>
-    <string name="gacha_order">第 %d 次</string>
+    <!--Gacha-->
+    <string name="limit_re">Limited Rerun</string>
+    <string name="limit_re_pick">Select Rerun</string>
+    <string name="normal_re">Perma Rerun</string>
+    <string name="fes">Prifes</string>
+    <string name="anv">Anni</string>
+    <string name="gacha_fes">PriFes ★3</string>
+    <string name="gacha_limit">Limited ★3</string>
+    <string name="gacha_normal">Perma ★3</string>
+    <string name="tool_mock_gacha">Gacha Sim</string>
+    <string name="gacha_pick_up_normal">Perma PickUp</string>
+    <string name="gacha_pick_up_fes">PriFes</string>
+    <string name="gacha_pick_up_single">Single PickUp</string>
+    <string name="tip_to_pick_up">Select a Character</string>
+    <string name="tip_to_pick_up_normal">The selected characters have the same probability</string>
+    <string name="tip_to_pick_up_single">Only the last selected character has a higher chance of success</string>
+    <string name="tip_to_mock_single">Single PickUp: Select at least 2 characters</string>
+    <string name="tip_no_gacha_record">No records</string>
+    <string name="reset_record">Reset Records</string>
+    <string name="delete_gacha">Delete Gacha</string>
+    <string name="tip_delete_gacha">Delete gacha and its draw record</string>
+    <string name="go_to_mock">Pull</string>
+    <string name="gacha_max_select_count">Select up to %d charas</string>
+    <string name="last_gacha_date">%d draws were made，%s</string>
+    <string name="gacha_used_gem">Spent %d jewels</string>
+    <string name="gacha_order">%dth</string>
     <string name="selected_mark">✓</string>
 
-    <!--ex装备相关-->
-    <string name="extra_equip_normal">普通</string>
-    <string name="extra_equip_clan">公会战</string>
-    <string name="extra_equip_flag">适用场景</string>
-    <string name="extra_equip_category">类型</string>
-    <string name="extra_equip_passive_skill">被动技能</string>
-    <string name="extra_equip_default_value">初始</string>
-    <string name="extra_equip_max_value">上限</string>
-    <string name="tool_extra_equip">EX装备</string>
+    <!--EX Gear-->
+    <string name="extra_equip_normal">Normal</string>
+    <string name="extra_equip_clan">Clan</string>
+    <string name="extra_equip_flag">Equipped</string>
+    <string name="extra_equip_category">Category</string>
+    <string name="extra_equip_passive_skill">Passive</string>
+    <string name="extra_equip_default_value">Initial</string>
+    <string name="extra_equip_max_value">Max</string>
+    <string name="tool_extra_equip">EX Equip</string>
     <string name="extra_equip_rarity_and_type">★%d  %s</string>
-    <string name="extra_equip_rarity">稀有度</string>
-    <string name="extra_equip_unit">适用角色</string>
-    <string name="extra_equip_no_drop_quest">暂无掉落区域</string>
-    <string name="tool_travel">EX冒险</string>
+    <string name="extra_equip_rarity">Rarity</string>
+    <string name="extra_equip_unit">Equippable</string>
+    <string name="extra_equip_no_drop_quest">No quests drop this</string>
+    <string name="tool_travel">EX Adv</string>
     <string name="unit_extra_equip_slot">适用装备</string>
     <string name="travel_limit_unit_num">人数上限</string>
     <string name="travel_need_power">所需战力</string>
@@ -398,35 +398,35 @@
     <string name="ex_equip_drop_odd">%.2f%%</string>
 
 
-    <!--技能相关-->
-    <string name="union_burst">连结爆发</string>
-    <string name="skill_index">技能 %d</string>
-    <string name="ex_skill">EX技能</string>
-    <string name="character_summon_info">等级：%d / RANK：%d / 星级：%d</string>
-    <string name="normal_attack">普攻</string>
-    <string name="ub_video">技能动画</string>
+    <!--Skills-->
+    <string name="union_burst">Union Burst</string>
+    <string name="skill_index">Skill %d</string>
+    <string name="ex_skill">EX Skill</string>
+    <string name="character_summon_info">Level：%d / Rank：%d / %d Star</string>
+    <string name="normal_attack">Normal</string>
+    <string name="ub_video">UB Video</string>
 
-    <!--装备rank颜色-->
-    <string name="color_blue">蓝</string>
-    <string name="color_copper">铜</string>
-    <string name="color_silver">银</string>
-    <string name="color_gold">金</string>
-    <string name="color_purple">紫</string>
-    <string name="color_red">红</string>
-    <string name="color_green">绿</string>
-    <string name="color_orange">橙</string>
-    <string name="color_cyan">青</string>
-    <string name="color_pink">粉</string>
+    <!--Equipment Tiers-->
+    <string name="color_blue">Blue</string>
+    <string name="color_copper">Copper</string>
+    <string name="color_silver">Silver</string>
+    <string name="color_gold">Gold</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_cyan">Cyan</string>
+    <string name="color_pink">Pink</string>
 
 
-    <!--中文数字-->
-    <string name="no1">一</string>
-    <string name="no2">二</string>
-    <string name="no3">三</string>
-    <string name="no4">四</string>
-    <string name="no5">五</string>
-    <string name="no6">六</string>
-    <string name="no7">七</string>
+    <!--Chinese Numbers Reverted to Eng-->
+    <string name="no1">1</string>
+    <string name="no2">2</string>
+    <string name="no3">3</string>
+    <string name="no4">4</string>
+    <string name="no5">5</string>
+    <string name="no6">6</string>
+    <string name="no7">7</string>
 
     <!--技能类型相关-->
     <string name="none" />
@@ -796,30 +796,30 @@
     <string name="skill_dot_5">咒术</string>
 
 
-    <!--属性-->
+    <!--Stats-->
     <string name="attr_hp">HP</string>
-    <string name="attr_life_steal">HP吸收</string>
-    <string name="attr_atk">物理攻击力</string>
-    <string name="attr_magic_str">魔法攻击力</string>
-    <string name="attr_def">物理防御力</string>
-    <string name="attr_magic_def">魔法防御力</string>
-    <string name="attr_physical_critical">物理暴击</string>
-    <string name="attr_magic_critical">魔法暴击</string>
+    <string name="attr_life_steal">HP Steal</string>
+    <string name="attr_atk">Phys Atk</string>
+    <string name="attr_magic_str">Magic Atk</string>
+    <string name="attr_def">Phys Def</string>
+    <string name="attr_magic_def">Magic Def</string>
+    <string name="attr_physical_critical">Phys Crit Rate</string>
+    <string name="attr_magic_critical">Magic Crit Rate</string>
     <string name="attr_physical_penetrate">物理穿透</string>
     <string name="attr_magic_penetrate">魔法穿透</string>
-    <string name="attr_accuracy">命中</string>
-    <string name="attr_dodge">回避</string>
-    <string name="attr_wave_hp_recovery">HP回复</string>
-    <string name="attr_hp_recovery_rate">回复上升</string>
-    <string name="attr_wave_energy_recovery">TP回复</string>
-    <string name="attr_energy_recovery_rate">TP上升</string>
-    <string name="attr_energy_reduce_rate">TP减少</string>
+    <string name="attr_accuracy">Accuracy</string>
+    <string name="attr_dodge">Evasion</string>
+    <string name="attr_wave_hp_recovery">Wave HP</string>
+    <string name="attr_hp_recovery_rate">HP Recovery</string>
+    <string name="attr_wave_energy_recovery">Wave TP</string>
+    <string name="attr_energy_recovery_rate">TP Boost</string>
+    <string name="attr_energy_reduce_rate">TP Retain</string>
     <string name="attr_tp">TP</string>
 
-    <!--日期相关-->
-    <string name="day">%d天</string>
-    <string name="hour">%d时</string>
-    <string name="minute">%d分</string>
+    <!--Time-->
+    <string name="day">%dD</string>
+    <string name="hour">%dH</string>
+    <string name="minute">%dM</string>
 
     <!--请求-->
     <string name="response_error">未正常获取数据，请切换网络后重试~</string>
@@ -834,7 +834,7 @@
     <string name="leader_tier_2">竞技场防守</string>
     <string name="leader_tier_d">T%s</string>
 
-    <!--测试用-->
+    <!--Debug-->
     <string name="debug_short_text">测试文本测试文本测试文本</string>
     <string name="debug_long_text">测试文本测试文本测试文本测试文本，测试文本测试文本测试文本，测试文本测试</string>
     <string name="debug_name">测试名称（类型）</string>
@@ -842,28 +842,28 @@
     <string name="to_zh">（汉化）</string>
 
 
-    <!-- 应用更新 -->
+    <!-- APK -->
     <string name="download_apk_error">获取安装包失败，请重试~</string>
     <string name="install_apk_error">安装失败</string>
-    <string name="download_apk">立即更新</string>
+    <string name="download_apk">Download APK</string>
     <string name="download_apk_from_github">从Github更新</string>
     <string name="apk_url">https://github.com/wthee/pcr-tool/releases/download/v%s/app-official-release.apk</string>
     <string name="request_install">正在请求应用安装权限，开启权限后请重新更新~</string>
 
-    <!-- 视频播放 -->
-    <string name="video_play_speed">倍速:</string>
-    <string name="play_error">播放出错或资源不存在</string>
-    <string name="video_resource_error">资源不存在</string>
-    <string name="download_video">下载视频</string>
-    <string name="saved">已保存</string>
+    <!-- Misc. -->
+    <string name="video_play_speed">Speed:</string>
+    <string name="play_error">Playback Error</string>
+    <string name="video_resource_error">Resource Error</string>
+    <string name="download_video">Download Video</string>
+    <string name="saved">Saved</string>
 
-    <string name="title_download_file">正在下载</string>
-    <string name="download_file_notice">文件下载通知</string>
-    <string name="preview_spine_type">预览类型</string>
-    <string name="preview_spine_battle">战斗</string>
-    <string name="preview_spine_room">小屋</string>
+    <string name="title_download_file">Download</string>
+    <string name="download_file_notice">Downloaded</string>
+    <string name="preview_spine_type">Preview</string>
+    <string name="preview_spine_battle">Battle</string>
+    <string name="preview_spine_room">Room</string>
 
-    <string name="talent_weakness">弱点属性</string>
-    <string name="talent_weakness_tip">弱点属性加成数值为最大值，即队伍中相同天赋角色数量为 5 时的数值</string>
+    <string name="talent_weakness">Elemental Weakness</string>
+    <string name="talent_weakness_tip">Same bonus as having 5 charas of the same element on your team</string>
 
 </resources>
