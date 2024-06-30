@@ -671,14 +671,14 @@
     <string name="skill_action_change_coe_4">%s * [%s count]</string>
     <string name="skill_action_change_coe_5">%s * [number of hurt targets]</string>
     <string name="skill_action_change_coe_6">%s * [damage dealt]</string>
-    <string name="skill_action_change_coe_7_10">%s * [%'s %s]</string>
+    <string name="skill_action_change_coe_7_10">%s * [%s's %s]</string>
     <string name="skill_action_change_coe_12">%s * [number of %s behind]</string>
     <string name="skill_action_change_coe_13">%s * [percentage of HP lost]</string>
     <string name="skill_action_change_coe_15">%s * [remaining HP of allies]</string>
     <string name="skill_action_change_coe_102">%s * [small eye count]</string>
     <string name="skill_action_change_coe_skill_count">%s * [skill count]</string>
     <string name="skill_action_change_coe_mark_count">%s * [mark count]</string>
-    <string name="skill_action_sp_if_rate"> Has a [%d%%] chance to perform Action (%d)</string>
+    <string name="skill_action_sp_if_rate">Has a [%d%%] chance to perform Action (%d)</string>
     <string name="skill_action_sp_if_dot">if %s has DoT，perform Action (%d)</string>
     <string name="skill_action_sp_if_dot_not">if %s doesn't have DoT，perform Action (%d)</string>
     <string name="skill_action_sp_if_skill_count">if %s's skill count is more than [%d]，perform Action (%d)</string>
@@ -690,7 +690,7 @@
     <string name="skill_action_sp_if_unit_exist">if %s is present，perform Action (%d)</string>
     <string name="skill_action_sp_if_unit_exist_not">if %s is not present，perform Action (%d)</string>
     <string name="skill_action_sp_if_kill">if previous action killed a target，perform Action (%d)</string>
-    <string name="skill_action_sp_if_kill_not">if previous action didn't kill a target，perform Action (%d)</string>
+    <string name="skill_action_sp_if_kill_not">if previous action didn't kill a target, perform Action (%d)</string>
     <string name="skill_action_sp_if_critical">if the skill crits，perform Action (%d)</string>
     <string name="skill_action_sp_if_critical_not">if the skill doesn't crit，perform Action (%d)</string>
     <string name="skill_action_type_desc_29">No UB</string>
